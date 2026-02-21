@@ -9,9 +9,7 @@ DisTalk ist eine native Windows-App, die das Web-Interface von [DisTalk](https:/
 * Native Windows-App, fühlt sich wie eine echte Anwendung an
 * Taskleisten-Icon & EXE-Icon integriert
 * Splashscreen beim Starten
-* Maximiert beim Start, kann Vollbild (F11)
-* Installer-ready mit NSIS
-* Portable EXE verfügbar im `dist` Ordner
+* Perfekt angepasst
 
 ---
 
