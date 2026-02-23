@@ -1,15 +1,15 @@
-# **DisTalk – Windows Desktop App**
+# **DisTalk – Android App**
 
-DisTalk ist eine native Windows-App, die das Web-Interface von [DisTalk](https://app.distalk.eu) in eine echte Desktop-Erfahrung verwandelt. Kein sichtbarer Browser, sauberes Taskleisten-Icon, Splashscreen und volle Windows-Integration.
+DisTalk ist eine native Android-App, die das Web-Interface von [DisTalk](https://app.distalk.eu) in eine echte App-Erfahrung verwandelt. Kein sichtbarer Browser, sauberes App-Icon, Splashscreen und volle Android-Integration.
 
 ---
 
 ## **Features**
 
-* Optimiert für Windows
-* Taskleisten-Icon & Sicherheit
+* Optimiert für Android
+* App-Icon & Sicherheit
 * Funktioniert garantiert
-* Perfekt angepasst
+* Perfekt angepasst für mobile Nutzung
 
 ---
 
