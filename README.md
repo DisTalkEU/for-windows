@@ -22,4 +22,4 @@ Pull Requests werden geprüft – bitte vorher Issues erstellen.
 
 ## **Lizenz**
 
-*MIT License*
+*Copyright © 2025–2026 DisTalk. Alle Rechte vorbehalten.*
