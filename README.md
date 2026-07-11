@@ -1,6 +1,6 @@
 # **DisTalk – Windows App**
 
-DisTalk ist eine native Windows-App, die das Web-Interface von [DisTalk](https://distalk.eu) in eine echte App-Erfahrung verwandelt. Es nutzt volle Windows-Integration.
+DisTalk ist eine native Windows-App, die das Web-Interface von [DisTalk](https://distalk.app) in eine echte App-Erfahrung verwandelt. Es nutzt volle Windows-Integration.
 
 ---
 
